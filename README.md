@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [see code](https://github.com/augustine-a8/advice-generator-app-main.git)
+-   Live Site URL: [live site](https://augustine-a8.github.io/advice-generator-app-main/)
 
 ## My process
 
